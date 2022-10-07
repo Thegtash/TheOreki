@@ -61,7 +61,7 @@ from DewmiBot.modules.helper_funcs.misc import paginate_modules
 from DewmiBot.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hay There! [👋](https://telegra.ph/file/c0afb228c4b1fcefac3bb.jpg), My Name Is  *Ξ L I N Λ 👸*. 
+Hay There! [👋](https://telegra.ph/file/5c8841cfe9b5dcda18bd7.jpg), My Name Is  **. 
 
 I can help to manage your groups with useful features, feel free to add me to your groups! 
 Promote me as *ADMIN* to let me get in action!
