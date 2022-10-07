@@ -61,7 +61,7 @@ from DewmiBot.modules.helper_funcs.misc import paginate_modules
 from DewmiBot.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hay There! [👋](https://telegra.ph/file/5c8841cfe9b5dcda18bd7.jpg), My Name Is  **. 
+Hay There! [👋](https://telegra.ph/file/5c8841cfe9b5dcda18bd7.jpg), My Name Is  *𝑂𝑟𝑒𝑘𝑖*. 
 
 I can help to manage your groups with useful features, feel free to add me to your groups! 
 Promote me as *ADMIN* to let me get in action!
@@ -70,13 +70,13 @@ Promote me as *ADMIN* to let me get in action!
 Hit  /help to see *all the commands* and how they work!
 """
 
-PM_IMG = "https://telegra.ph/file/c0afb228c4b1fcefac3bb.jpg"
+PM_IMG = "https://te.legra.ph/file/be172a07425a9199753d1.jpg"
 
 
 HELP_STRINGS = f"""
-*⚊❮❮❮『 Ξ L I N Λ  HΞLP MΞИU 』❯❯❯⚊*
+*⚊❮❮❮『 Ⓞ︎Ⓡ︎Ⓔ︎Ⓚ︎Ⓘ︎ Ⓗ︎Ⓔ︎Ⓛ︎Ⓟ︎ Ⓜ︎Ⓔ︎Ⓝ︎Ⓤ︎ 』❯❯❯⚊*
 
-Hay !👋 I'm  Ξ L I N Λ [👸](https://telegra.ph/file/c0afb228c4b1fcefac3bb.jpg)
+Hey !👋 I'm  🅞︎ 🅡︎ 🅔︎ 🅚︎ 🅘︎ [👸](https://telegra.ph/file/a68af2f1ac3c73c6a547f.jpg)
 
 The following funtions will helpful to you to manage your group. 😇
 
@@ -87,30 +87,30 @@ The following funtions will helpful to you to manage your group. 😇
 
 
 DONATE_STRING = """
-Hay, glad to here you want to donate! 
+Hey, glad to here you want to donate! 
 You can donate to the ogiginal writer's of the Base Code,
-Support them [Youtube](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA)
+Support them [Youtube](https://youtube.com/channel/UCfCqxjeNYGvRb2gLkOnXGyg)
 """
 
 BUTTONS = [
     [
         InlineKeyboardButton(
-            text="🔱 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔱", url="http://t.me/TheElinaBot?startgroup=true"),
+            text="🔱 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔱", url="http://t.me/OrekiXPro_Bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="📰 ʙᴏᴛ ɴᴇᴡs 📰", url=f"https://t.me/ElinaNews"),
+        InlineKeyboardButton(text="📰 ʙᴏᴛ ɴᴇᴡs 📰", url=f"https://t.me/TeamWolf_Updates"),
         InlineKeyboardButton(
-            text="👥 ʙᴏᴛ sᴜᴘᴘᴏʀᴛ 👥", url=f"https://t.me/ElinaSupport"
+            text="👥 ʙᴏᴛ sᴜᴘᴘᴏʀᴛ 👥", url=f"https://t.me/Team_Wolf_004"
         ),
     ],
     [
-        InlineKeyboardButton(text="★ ʀᴇᴠɪᴇᴡ ᴜs ★", url=f"https://t.me/tlgrmcbot?start=theelinabot"),
+        InlineKeyboardButton(text="★ ʀᴇᴠɪᴇᴡ ᴜs ★", url=f"https://t.me/tlgrmcbot?start=OrekiXPro_Bot"),
         InlineKeyboardButton(
             text="ℹ️ ᴀʙᴏᴜᴛ ℹ️", callback_data="aboutmanu_"
         ),
     ],
     [
-        InlineKeyboardButton(text="🎛 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs 🎛", url=f"http://t.me/TheElinaBot?start=help"),
+        InlineKeyboardButton(text="🎛 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs 🎛", url=f"http://t.me/OrekiXPro_Bot?start=help"),
     ],
 ]
 IMPORTED = {}
